@@ -10,6 +10,8 @@ CREATE TABLE Fussballspieler (
     def INTEGER,
     phy INTEGER,
     country TEXT,
+    liga TEXT,
+    club TEXT,
     card_type TEXT
 );
 
