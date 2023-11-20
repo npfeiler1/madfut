@@ -3,7 +3,7 @@ import time
 import getpixelcolor as getpixelcolor
 
 while (True):
-    pyautogui.moveTo(1909, 2014)
+    pyautogui.moveTo(1923, 2014)
     pyautogui.click(1909, 2014)
     time.sleep(3)
     pyautogui.click(1909, 2014)
